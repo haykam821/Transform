@@ -1,0 +1,10 @@
+{
+	"name": "better-transform",
+	"scripts": {
+		"test": "mocha test.js"
+	},
+	"devDependencies": {
+		"chai": "*",
+		"mocha": "*",
+	}
+}
